@@ -39,7 +39,7 @@ I asked and had to specify my intent a couple times. I wanted a plan for how to 
 
 ### The Plan
 
-Certainly! Here's a plan for conducting the session itself as the "isekai's pilot episode" and introducing the players to the campaign narrative:
+ChatGPT 3.5 - May2023: Certainly! Here's a plan for conducting the session itself as the "isekai's pilot episode" and introducing the players to the campaign narrative:
 
 1. Opening Scene:
    - Set the stage with a vivid description of the surroundings and the magical ambiance of the wizard's shop.
@@ -77,56 +77,66 @@ By following this plan, you can conduct a session that functions as the pilot ep
 
 # Reflection
 
-## Setting
+## Setting, Theme, and Tone
 
-## Profiling
+## Geography
 
-I like the "exploration, combat, puzzle, roleplay" division of intent. With 4 parts, it gives me a way to tie the player types to playing card suits as well, which is one of my favorite things to reference. It also gives me a way of finding what the players prefer, and who dominates each.
+The campaign is centered on a pocket universe, or bubble dimension. Whatever you want to call it to fit your game system. In this universe is a large island that drops off into literal space after a mile or so away from the island at sea (or undernearth). It is a sphere centered around the volcano of the island, which was what was summoned.
+
+Everything is light or frequency themed. Vibrations, sound, light, change. This is the general theme. Thing of fiberoptics and lenses. Lots of lighthouses. Old architecture to represent solid integration of the systems. It's not a fleeting thing, it's been around as long as the architecture.
+
+# Profiling
+
+I like the "exploration, combat, puzzle, roleplay" division of potential player and character intents, but I don't want to be restricted by them. I do want to make custom playing card suits that represent these intent categories though. It will make for fun prophesy and in-game games.
+
+It also gives me a way of finding what the players prefer, and who dominates each.
 
 There is always a social structure, even if you don't notice.
 
-## Session Zero
+# The Factions
 
-- opening scene
-	- what is everyone's initial normal?
-	- what would make you leave? willingly or unwillingly?
-- Avador's Travelling Emporium
-	- The wonderous explorer searching for new oysters or transportation tech
-	- secretly looking for new people, willing or not
-	- All encounters happen simultaneously: prismatic jewel that splits the ship into temporary "images"
-
-### what is the main quest? whose side do you take?
-
-- blue dragon (secretly the missing planeswalker) who makes the light stones?
-- quarantined mad biologist (lich) searching for a cure to her own infection?
-- The church of fermentation trying to promote the rapid spread of the disease?
-- abyssal "gnome" inhabitants from whence the pocket universe came?
-	- they are only gnomes because we cannot fathom their true form
-	- children and animals seem unaffected by their magic
-	- they can once a day permanently change people into equivalent animals until their death breaks the curse.
+Main characters in charge of each faction:
+- An adult blue dragon (secretly the missing planeswalker) who runs the light stone industry
+- The quarantined mad biologist (lich) who helped make the light stones, and is now leading the search for a cure (to her own infection)
+- The fungal hive mind of the "church of fermentation" trying to promote the rapid spread of itself outside the bubble universe
+- The abyssal "gnome" inhabitants from whence the pocket universe came. A homebrew creature in the mind of a terribly powerful and terrifying thing in an unassuming shell. They are ambivalent to anyone unless provoked.
+	- They only look like gnomes because we cannot fathom their true form. They appear as short garden gnomes as in the Brothers Grimm's, "The Earth Gnomes" or "Snow White and Rose Red", and are hence very churlish in creative and silly ways, and quick to anger. They are very proud culturally of the following:
+		- Their nimbleness and trim or dainty size.
+		- Their white beards, at least half as long as they are when able
+		- Their often exquisitly tailored and practical clothes
+	- Children and animals seem unaffected by their powerful magic. That is their main limitation, but otherwise they appear to effect the universe as incredibly powerful, sorcerous, magical beings by nature.
+	- They can once a day permanently change people into equivalent animals using something akin to "true polymorph" that lasts until the gnome's death breaks the curse.
 	- 3 times a day they can magically distract a group of people while they escape
-	- they, like dragons, are drawn to hoard what they see as valuable, often precious jewels
+	- They often go unnoticed by adults, and could walk through a crowded street of people in plain sight unnoticed unless being specifically looked for.
+	- They, like dragons, are drawn to hoard what they see as valuable, often precious jewels
 
-The dragons are allied with the wizards and the exiled lich as their figuredead, but they fight for control of the partnership.
+## Mutual Goals
 
-The church of fermentation wants to overthrow the system and is mostly a population control argument in a finite space. "don't expand, distill"
+The _Dragons_ are allied with the _Wizards_ and the exiled lich as their figurehead, but they fight for control of this partnership that maintains the supremacy of the lightstone industry.
 
-The gnomes and the fey are unaligned and roam the wilderness populating the places where the bubble universe is the weakest.
+The _Gnomes_ are many, solitary, unaligned, and very territorial between themselves. They live in vast complexes of tunnels in the earth, and roam the wilderness or population centers to steal or "borrow" things (as they justify it. "we borrow for the safekeeping of all!") and then retreat into their fortresses. They seem to appear out of nowhere and a female or child has never been seen. They are secretly the mature "fruit" of a fungus. This fungus was secretly genetically engineered by the mad biologist as an immortality experiment, and after it escaped it started the infection.
 
-The session needs a representative for each faction that gives the players an in for that narrative setting upon landing in the isekai. Whoever the players follow, if any, should serve as their allies, and the natural adversaries based on factional motivations will follow.
-
-The gnomes are the default, and if the players leave the ship without making friends, the gnomes will find them when they land in the wilderness.
+The _Church of Fermentation_ is the fanatic population that wants to overthrow the system. Their arguments are mostly sold as a population control argument (or just a control argument) in a finite bubble space, but they seek to leave their lives behind and make use of the infected's potential for lichdom. Their local branch mottos have all latched on to some form of "don't expand, distill"
 
 # Brainstorming
 
-## My Desires
-
 Using Avador's Travelling Emporium as the setting for session zero, and the gateway in and out of the "isekai" universe.
 
-### Session Zero
+## Session Zero Plan
 
-- NPSs in  that can service to entice different characters based on their motives
-- ship interactions or plot hooks that set the tone and power dynamics of the group
-- ship interactions or plot hooks that help determine who the protagonists and antagonists in the setting are
-
-# Next Prompts
+- Opening scene
+	- what are the characters' initial ideas of normal?
+	- what would make them leave? willingly or unwillingly
+- Avador's Travelling Emporium
+	- The wonderous explorer searching for new oysters or transportation tech
+	- secretly looking for new people, willing or not
+		- for what? why?
+	- All encounters happen simultaneously: prismatic jewel that splits the ship into temporary "images"
+- Entice with "false" main hook publicly told
+- Shanghai if unwilling
+	- why? why would the crew be evil enough if they are so seemingly friendly? What benefit do they get out of it?
+- Pre-made interactions with the crew with subhooks
+	- Information and guidance. 
+	- Equipment and customization
+	- Relationships: new friends and enemies
+- The Departure
