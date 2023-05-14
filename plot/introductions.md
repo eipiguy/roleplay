@@ -17,3 +17,7 @@ To start, this is the first draft of a summary for the setting and backstory of 
 ## Finally
 
 After some reflections on a discussion over session planning and design, I have made the following observations that I would like to discuss:
+
+## Prompts
+
+I appreciate your help! With all this in mind, could you please help me address the following in detail:
