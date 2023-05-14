@@ -1,7 +1,8 @@
 After reflecting on the initial brainstorming session, these are the next steps I can think of in filling out the character's and their arcs.
 
+Some things I would like to consider:
 - What am I missing?
-- Meta planning. How could I make plans effectively for each session?
+- Meta planning. How could I make a system to design and plan effectively for each session?
 	- Minimal but important prep work
 	- Adaptability: handle things going sideways
 
@@ -11,9 +12,9 @@ Avador is the captain, but the passengers are the majority of the ship's populat
 - How do they make money? Are they pirates? Traders? Transportation?
 - Who maintains order and how?
 - What rules do people follow?
-- What are the jobs/roles needed to crew the ship? How many people, and what is the heirarchy?
+- What are the jobs/roles needed to crew the ship? How many people, and what is the hierarchy?
 	- Cargo airplane
-	- Oceanliner cargo ship
+	- Ocean liner cargo ship
 	- Aircraft carrier
 	- Submarine
 	- The International Space Station
@@ -41,7 +42,7 @@ Potentials:
 
 The session zero needs a representative from each faction that gives the players an in for that narrative as a setting upon landing in the isekai. Whoever the players follow, if any, should serve as their allies, and the natural adversaries based on factional motivations will follow.
 
-Who are these key potential allies? What about if their interactions with the characters don't pan out, but they still seem interested in their cause? How do I re-make the allies to accomodate?
+Who are these key potential allies? What about if their interactions with the characters don't pan out, but they still seem interested in their cause? How do I re-make the allies to accommodate?
 
 # Double Check
 

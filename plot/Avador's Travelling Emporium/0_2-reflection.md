@@ -1,10 +1,10 @@
 # Discussion
 
-After an [initial idea](0-backstory.md) about how to set up a session zero feauting Avador's Travelling Emporium as the gateway into the campaign, [a generalized chat with ChatGPT 3.5](0-gpt_3_5-0.md) was begun as an initial exploration into basic structure of the setting, and potential refinements to current goals and plot design.
+After an [initial idea](0-backstory.md) about how to set up a session zero featuring Avador's Traveling Emporium as the gateway into the campaign, [a generalized chat with ChatGPT 3.5](0-gpt_3_5-0.md) was begun as an initial exploration into basic structure of the setting, and potential refinements to current goals and plot design.
 
 ## Player Introductions
 
-The initial promts produced some good things to be aware of when screening or introducing players or yourself as part of the campaign:
+The initial prompts produced some good things to be aware of when screening or introducing players or yourself as part of the campaign:
 - Tone/Setting/Genre
 - Themes
 - PC Goals
@@ -77,13 +77,19 @@ By following this plan, you can conduct a session that functions as the pilot ep
 
 # Reflection
 
-## Setting, Theme, and Tone
-
 ## Geography
 
-The campaign is centered on a pocket universe, or bubble dimension. Whatever you want to call it to fit your game system. In this universe is a large island that drops off into literal space after a mile or so away from the island at sea (or undernearth). It is a sphere centered around the volcano of the island, which was what was summoned.
+The campaign is centered on a pocket universe, or bubble dimension. Whatever you want to call it to fit your game system. In this universe is a large island that drops off into literal space after a mile or so away from the island at sea (or under earth). It is a sphere centered around the volcano of the island, which was what was summoned.
 
-Everything is light or frequency themed. Vibrations, sound, light, change. This is the general theme. Thing of fiberoptics and lenses. Lots of lighthouses. Old architecture to represent solid integration of the systems. It's not a fleeting thing, it's been around as long as the architecture.
+## Theme
+
+Everything is light or frequency themed. Vibrations, sound, light, change. This is the general theme, but it opens up the possibility of flavors of magic based on colors and music, and even chi or body rhythms.
+
+This has led mainly to lots of lighthouses. Old architecture to represent solid integration of the systems. The magic is not a fleeting thing, it's been around as long as the architecture.
+
+## Tone
+
+The tone should be whimsically offbeat, but jarring at times, either from it's lack of restraint, or it's stunning and unusual parallels to our own reality.
 
 # Profiling
 
@@ -103,7 +109,7 @@ Main characters in charge of each faction:
 	- They only look like gnomes because we cannot fathom their true form. They appear as short garden gnomes as in the Brothers Grimm's, "The Earth Gnomes" or "Snow White and Rose Red", and are hence very churlish in creative and silly ways, and quick to anger. They are very proud culturally of the following:
 		- Their nimbleness and trim or dainty size.
 		- Their white beards, at least half as long as they are when able
-		- Their often exquisitly tailored and practical clothes
+		- Their often exquisitely tailored and practical clothes
 	- Children and animals seem unaffected by their powerful magic. That is their main limitation, but otherwise they appear to effect the universe as incredibly powerful, sorcerous, magical beings by nature.
 	- They can once a day permanently change people into equivalent animals using something akin to "true polymorph" that lasts until the gnome's death breaks the curse.
 	- 3 times a day they can magically distract a group of people while they escape
@@ -120,23 +126,27 @@ The _Church of Fermentation_ is the fanatic population that wants to overthrow t
 
 # Brainstorming
 
-Using Avador's Travelling Emporium as the setting for session zero, and the gateway in and out of the "isekai" universe.
+Using Avador's Traveling Emporium as the setting for session zero, and the gateway in and out of the "isekai" universe.
 
 ## Session Zero Plan
 
 - Opening scene
 	- what are the characters' initial ideas of normal?
 	- what would make them leave? willingly or unwillingly
-- Avador's Travelling Emporium
-	- The wonderous explorer searching for new oysters or transportation tech
+- Avador's Traveling Emporium
+	- The wondrous explorer searching for new oysters or transportation tech
 	- secretly looking for new people, willing or not
 		- for what? why?
 	- All encounters happen simultaneously: prismatic jewel that splits the ship into temporary "images"
 - Entice with "false" main hook publicly told
 - Shanghai if unwilling
 	- why? why would the crew be evil enough if they are so seemingly friendly? What benefit do they get out of it?
-- Pre-made interactions with the crew with subhooks
+- Pre-made interactions with the crew with sub-hooks
 	- Information and guidance. 
 	- Equipment and customization
 	- Relationships: new friends and enemies
 - The Departure
+
+# Next Steps
+
+After all of these thoughts and interactions, [some next steps are presented](0-next_prompts.md).
