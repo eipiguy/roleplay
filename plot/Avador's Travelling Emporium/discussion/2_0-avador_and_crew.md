@@ -113,7 +113,6 @@ Methods vary depending on who is involved. The persuasive might use charm or neg
 **Consequences**
 
 Being shanghaied is a disorienting and often traumatic experience. Some might resist, leading to conflict with their captors, while others might adapt and find a place in the ship's society. Their backgrounds and skills can create new storylines and conflicts, providing rich fodder for the campaign.
-Absolutely! Let's start with the shops and then introduce characters who fit into those environments.
 
 # Oddball Shops Off the Beaten Path
 
@@ -164,6 +163,3 @@ Absolutely! Let's start with the shops and then introduce characters who fit int
    - **Orin**: A goliath who's both a chef and an adventurer. Orin's travels across different planes have given him a unique understanding of various cuisines. He cooks all the meals with care, adjusting them to suit the dietary needs of the ship's passengers.
    
    - **Pip**: Pip is a quickling who works as a waiter at Demi-Planar Delicacies. His speed allows him to serve customers quickly, making him an essential part of the crew. Despite his fast-paced existence, Pip always has time for a quick joke or a friendly chat with customers.
-
-# Unaffiliated Inhabitants
-
