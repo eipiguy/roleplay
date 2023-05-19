@@ -24,7 +24,9 @@ Avador operates a massive lighthouse ship that contains essentially a floating c
 
 Avador's ship is one of the few that is licensed to travel beyond the pocket dimension that makes up the entirety of the campaign world. His ship and its mission is mostly financed by a contract to find new oyster species for breeding and pearl development. He also was able to secure a contract to anchor new light stones in other worlds to enable efficient outside "port" connections to the network. These were both endeavors backed by the campaign's government as they aim to expand the light network, but his oyster contract at least is now under threat, if not the whole government in general.
 
-As self-reliant tinkerer and adventurer himself, he relates to all the characters as young versions of himself, and takes them under his wing. They may be drawn into his adventures as he tries to navigate his financial stability in new ways.
+Avador encounters the players on one of his expeditions outside of the campaign universe. His role for the campaign is to serve as a way to shepard the characters back into the campaign world, where they will be forced to remain until completion.
+
+As self-reliant tinkerer and adventurer himself, Avador relates to all the characters as young versions of himself, and takes them under his wing. They may be drawn into his adventures as he tries to navigate his financial stability in new ways.
 
 He has in his mind he may circumvent al of this by a method of travel that he is actively trying to manufacture himself: enchanted doorknobs that link to a network of hallways in his own pocket dimension. He sees this as an improvement to the light network that is limited by line of sight amplifiers, but his inventions have not yet panned out. He has finally saved enough money to get the materials for the pocket dimension's anchor. (He essentially has the money to develop the land, but hasn't connected it to the utilities or built anything on it)
 
@@ -36,7 +38,7 @@ There are opportunities for different motivations and roles, tempting players wi
 
 But the true motivations of the encounter are to take the player's characters back to the beleaguered island of the campaign that the ship originates from.
 
-The ship has a reputation for shanghaiing people, adding an element of risk and intrigue in case players aren't enchanted with all this new fangled finery.
+The ship has a reputation for shanghaiing people, adding an element of risk and intrigue in case players aren't enchanted with all this new-fangled finery.
 
 # The Infection
 
@@ -52,8 +54,8 @@ The more thoughtful and brave take to a "living mummification" during the death 
 
 A cult has formed around this process of using the infection with a ritualized mummification process towards lichdom.
 
-They infect willing (and sometimes unwilling) participants in the hope of achieving the elusive self-aware infection. These rituals often result in the unintentional release of the zombie infection into nearby towns, and are essentially mass suicide events and should be handled delicately by the DM and the characters.
+The members stage event's, normally in abandoned houses so as to avoid detection, that infect willing (and sometimes unwilling) participants in the hope of achieving the elusive self-aware result. These rituals often end in the unintentional release of the zombie infection into nearby towns, and are essentially mass suicide events that should be handled delicately by the DM and the characters.
 
-The cult is perpetuated by a common invention that was sold to the public to help alleviate the infection's spread. It isolates any infection generally in an individual to a specific body part, preventing the death and resurrection needed for the mental degradation. You could use it for a snake or spider bite for instance.
+The cult is perpetuated by a common invention that was sold to the public to help alleviate the infection's spread. It isolates any infection generally in an individual to a specific body part, preventing the death and resurrection needed for the mental degradation. You could use it to isolate a snake or spider bite for instance as well.
 
 These are made as bands of silver that are designed to draw a small amount of the wearer's own blood for enchantment. Even though they were once used to control the infection, alternate uses have made them a common black market currency.
