@@ -18,7 +18,7 @@ It all becomes very "Rick & Morty" very quickly, and you have to figure out how 
 
 ## Life is Weird
 
-Animals and plants aren't the same here. The same way you can clone a plant by splitting it, you might be able to cut the arm off an animal and grow another of that animal... or maybe an arm tree. You never really know. 
+Animals and plants aren't the same here. The same way you can clone a plant by splitting it, you might be able to cut the arm off an animal and grow another of that animal... or maybe an arm tree. You never really know.
 
 When all things are possible, the question of whether something has been done is just a question of time and how imaginative the population is. That brings to mind the problem of [a single author](#a-single-author) as well.
 
@@ -40,7 +40,9 @@ How do you find the tasteful things in a strange world? What would artisans and 
 
 ## A Single Author
 
-I am but a single author making an entire world. I am using all the help I can get, but the elephant in the room is that there is a "hive mind", a "local god", that is orchestrating everything.
+I am but a single author making an entire world. I am using all the help I can get, but the elephant in the room is that there is a "hive mind", a "local god", that is orchestrating everything. No one can know about or talk to this hive mind, but it controls everything. How do you address that?
+
+The dragon disguised as an old beggar? No, more like a beholder disguised as an old beggar.
 
 ### Black Powder
 
