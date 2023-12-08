@@ -3,36 +3,80 @@
 ```mermaid
 graph TD
 
-band[We're in a band!]
+dreams[The Demon Telephone]
+dreams--->band
+subgraph band[We're in a band!]
+	practice[Practice Space]
+	sleezies[Sleezies']
+	garage[The Garage Network]
+	practice--->sleezies
+end
 
-band--->scouting[Scouting Recruits]
+subgraph scouting[Scouting Recruits]
+	venue["The Other Place"]
+	management["The Management"]
+	venue--->management
+end
+band--->scouting
 
 scouting--->space[Lighthouse Rocket Island]
-scouting--->doors[Doors in the Deep]
+scouting--->doors([Doors in the Deep])
 
 space--->emporium[Avador's Emporium]
 doors--->laboratory[The Laboratory by the Menargerie]
-space--->laboratory
+space<--->doors
 
+doors-.->eaten([Eaten Alive])
+laboratory--->eaten
+emporium--->eaten 
 
-scouting--->eaten[Eaten Alive]
-doors--->eaten
-space--->eaten
-
-eaten--->meat[That's No Moon]
-emporium--->meat
-laboratory--->meat
-
-meat--->bargain[The Beholder's Bargain]
+eaten--->bargain[The Beholder's Bargain]
 ```
+
+## The Demon Telephone
+
+Begin the session with each character having the same dream:
+
+>You walk through a door into a dark void. In the darkness you see a small red light.
+>
+>You find that it's the only thing in view. No matter how you turn, it is front and center.
+>All you *can* do is move closer. Even moving away seemingly moves you closer. To the red light. on the plastic nose. of a toy telephone.
+>
+>It's plastic, blocky, and features a large primary color smiley face, anthropomorphizing the phone, like many other child's toys.
+>But it's ringing with the same tone as *your* phone.
+>
+>You reach down for your pocket, and
+>upon picking up the receiver on the child's phone, which you do not remember doing, you hear a deep throated laugh emanating from the darkness around you.
+>You cautiously press your ear to the receiver, and the voice slides into the static-y chuckle that seeps out of where a speaker might be on the plastic, if it were a real phone.
+>
+>Then, as the crunchy laugh is lost in the static, you are then physcially sucked in.
+>through the plastic not-speaker
+>like pork in a sausage grinder.
+>
+>Through the speaker and into the not-circuitry you go.
+>As you lose yourself in the static, you swear you can hear music. Something that sounds familiar;
+>something you can almost imagine playing yourself;
+>and then you awake in a feverish sweat...
 
 ## We're in a band!
 
-You must all be in a band. For whatever reason you'd like, but you are in a band, and at bare minimum, that means you want to make cool music together.
+Your characters must all be in a band.
 
-That means you each have some instruments, some talent with them, and a practice space you all play in regularly. Maybe you even have a set list!
+For whatever reason you'd like, but you are in a band, and at bare minimum, that means you want to make cool music together.
+
+That means you each have some instruments, some talent with them, and you just went in together on the rent for a studio practice space to play in regularly.
+
+The investment is about as much as a phone bill, but if you play at the local sleezy venue, you'd be able to make that back.
+
+Maybe you even have a set list in mind!
 
 Now you need a venue. An audience!
+
+### Practice Space
+
+### Sleezies'
+
+Even though it's a trash heap, Sleezies' has that one guilty pleasure you never tell anyone about. No one judges you there, because everyone has their own, but it's never quite felt welcoming.
 
 ## Scouting Recruits
 
