@@ -4,7 +4,12 @@
 
 ### Practice Space
 
-#### Landlord
+- Bus Stop Pothead
+- Front Desk/Landlady
+- Competing bands
+  - You wish you were them
+  - You hope you aren't them
+  - Those assholes
 
 ### The Only Venue In Town
 
@@ -20,7 +25,7 @@ A few chickens and dairy cows. One missing bull, and two roosters strung to oppo
 
 A garden of strange vegetables no one can identify that seem to move.
 
-You could swear the plant on the patio looks like a weird succulant bush made of fingers.
+You could swear the plant on the patio is made of fingers.
 
 #### Tinker
 

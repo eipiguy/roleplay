@@ -1,8 +1,14 @@
 # Roleplay Development Log
 
+## 2023-12-8 Friday
+
+The head is seemingly made of solid gold. The giant's name is Midas, and it constantly stares at the sun. Its eyes are the solar gathering cells needed to distribute power amongst itself.
+
+This is coming along quite nicely. I have a lot of ideas that have some momentum to them, and the characters and locations seem to follow.
+
 ## 2023-12-7 Thursday
 
-
+The giant is a disembodied cyclopean head the size of a moon.
 
 ## 2023-12-3
 

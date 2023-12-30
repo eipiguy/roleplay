@@ -37,3 +37,22 @@ Regions
 | India       | 3.3M  | 1.4B  | 58      |         | 164   | 3.4T  |
 | Israel      | 20K   | 9M    |         |         | 90    | 0.5T  |
 | N. Korea    | 0.1M  | 26M   |         |         | 30    | ?     |
+
+Religions
+- Vedic
+  - Hindu
+  - Buddhist
+- Druidic
+  - Norse
+  - Celtic
+  - Shinto
+  - Taoism
+- Hellanistic
+  - Egyptian
+  - Greek
+  - Roman
+  - Zoroastrian
+- Abrahamic
+  - Judaism
+  - Christianity
+  - Islam
